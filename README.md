@@ -2,7 +2,8 @@
 
 the code draw for the 5players 5 Cards and find a winner by the texas hold'em rules
 
-exercise statement : 
+##exercise statement : 
+
 Define two enums to express Hand (Club, Hearts, Spades, Squares) and Value (from 2 to Ace)
 Define a class Card using those enums into two properties
 Define the ToString() to display the value of the card
