@@ -1,6 +1,6 @@
 # formative Poker SAE
 
-the code draw for the 5players 5 Cards and find a winner by the texas hold'em rules
+the code draw for the 5 Players 5 Cards and find a winner by the Texas hold'em rules
 
 ## Exercise statement : 
 
